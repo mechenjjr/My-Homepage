@@ -54,3 +54,7 @@ Example: editing a Markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+Service
+======
+- **Reviewer, LCFM 2025** (Long Context Foundation Models Workshop, 2025) — Accepted invitation to serve as reviewer. Reviews due 2025-12-13 AOE.
